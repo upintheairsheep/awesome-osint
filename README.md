@@ -898,11 +898,13 @@ algorithms, knowledgebase and AI technology.
 * [Earthcam](http://www.earthcam.com)
 * [Insecam](http://insecam.org/)
 * [Frame by Frame](https://chrome.google.com/webstore/detail/frame-by-frame/cclnaabdfgnehogonpeddbgejclcjneh/) - Browser plugin that allows you to watch YouTube videos frame by frame.
+* [Find YouTube Video](https://findyoutubevideo.thetechrobo.ca/) - Searches currently 5 YouTube archives for specific videos by ID, which is really useful for finding deleted or private YouTube videos.
 * [Geosearch](http://www.geosearchtool.com)
 * [Internet Archive: Open Source Videos](https://archive.org/details/opensource_movies)
 * [LiveLeak](http://www.liveleak.com)
 * [Metacafe](http://www.metacafe.com)
 * [Metatube](http://www.metatube.com)
+* [Tubuep](https://github.com/bibanon/tubeup) - Downloads online videos via yt-dlp, then reuploads them to the Internet Archive for preservation.
 * [Veoh](http://www.veoh.com)
 * [Vimeo](https://vimeo.com)
 * [Yahoo Video Search](http://video.search.yahoo.com)
@@ -911,6 +913,7 @@ algorithms, knowledgebase and AI technology.
 * [ccSUBS](http://ccsubs.com/) - Download Closed Captions & Subtitles from YouTube
 * [YouTube Metadata](https://mattw.io/youtube-metadata/)
 * [YouTube Geofind](https://mattw.io/youtube-geofind/)
+* [yt-dlp](https://github.com/yt-dlp/yt-dlp/) - Downloads videos, along with information, thumbnails, subtitles, descriptions, and comments (comments only on a select few sites like Youtube and a few small sites)
 * [Video Stabilization Methods](https://github.com/yaochih/awesome-video-stabilization)
 * [Filmot](https://filmot.com/) - Search within YouTube subtitles. Indexing over 573 million captions across 528 million videos and 45 million channels.
 
